@@ -1,0 +1,15 @@
+9.7.2020. 14:55:07
+Vlažnost: 41%
+Temperatura: 26°C
+Glavna vrata: Zaključana
+Hodnik vrata: Zaključana
+Hladnjak vrata: Zaključana
+Status alarma: ok
+9.7.2020. 14:55:07
+Vlažnost: 44%
+Temperatura: 19°C
+Glavna vrata: Zaključana
+Hodnik vrata: Otključana
+Hladnjak vrata: Zaključana
+Status alarma: ok
+
